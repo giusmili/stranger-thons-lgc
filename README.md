@@ -1,4 +1,4 @@
-# Stranger Things LGC (Next.js)
+# 🚀 Stranger Things LGC (Next.js)
 
 Application Next.js (App Router) qui propose un chat avec des personnages inspirés de Stranger Things via l'API Gemini.
 
